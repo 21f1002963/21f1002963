@@ -1,24 +1,34 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">Full Stack Web Developer (MERN) | React Native Android Developer | India</h3>
+<p align="center">A continuous Hustler</p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=21f1002963&margin-w=15&title=Commits,Repositories,PullRequest,Experience" alt="Trophy 1" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=21f1002963&label=Profile%20views&color=0e75b6&style=flat" alt="21f1002963" /> </p>
+👨‍💻 Current Focus: A Full-Stack Course Selection System for Pondicherry University (MERN + React Native) to streamline academic workflows.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21f1002963" alt="21f1002963" /></a> </p>
+🌱 Learning: Docker, Kubernetes, and GCP to master DevOps and cloud-native development.
 
-- 🔭 I’m currently working on **Pondicherry University App**
+👯 Looking to collaborate on:
 
-- 🌱 I’m currently learning **Docker and Kubernetes**
+    - 📱 Android apps (React Native/Flutter)
 
-- 👯 I’m looking to collaborate on **Android apps, ML projects**
+    - 🤖 ML/AI projects (Supervised, Unsupervised, LLMs, or AI agents)
 
-- 🤝 I’m looking for help with **AI prjects**
+    - 🌐 Open-source web projects (MERN stack)
 
-- 💬 Ask me about **MERN, React Native**
+💡 Expertise & Interests
+💬 Ask me about:
 
-- 📫 How to reach me **mkmohitkumar700@gmail.com**
+    - MERN Stack (MongoDB, Express, React, Node.js)
 
-- ⚡ Fun fact **I am a continous hustler**
+    - Cross-platform apps (React Native)
 
+    - AI/ML basics (Python, TensorFlow, LLMs)
+
+📫 Reach me: mkmohitkumar700@gmail.com | www.linkedin.com/in/mohitcode
+
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohitcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitcode" height="30" width="40" /></a>
