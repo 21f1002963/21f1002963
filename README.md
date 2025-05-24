@@ -5,6 +5,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=21f1002963&margin-w=15&title=Commits,Repositories,PullRequest,Experience" alt="Trophy 1" />
 </div>
 
+<p></p>
 👨‍💻 Current Focus: A Full-Stack Course Selection System for Pondicherry University (MERN + React Native) to streamline academic workflows.
 
 🌱 Learning: Docker, Kubernetes, and GCP to master DevOps and cloud-native development.
