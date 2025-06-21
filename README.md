@@ -1,31 +1,35 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">Full Stack Web Developer (MERN) | React Native Android Developer | India</h3>
+<h3 align="center">Python Developer | AI/ML | Full Stack Web Developer (MERN) | India</h3>
 <p align="center">A Continuous Hustler</p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=21f1002963&margin-w=15&title=Commits,Repositories,PullRequest,Experience" alt="Trophy 1" />
 </div>
 
 <p></p>
-👨‍💻 Current Focus: A Full-Stack Course Selection System for Pondicherry University (MERN + React Native) to streamline academic workflows.
+👨‍💻 Current Focus: Building AI Agents using LanGraph 
 
 🌱 Learning: Docker, Kubernetes, and GCP to master DevOps and cloud-native development.
 
 👯 Looking to collaborate on:
 
-    - 📱 Android apps (React Native/Flutter)
-
     - 🤖 ML/AI projects (Supervised, Unsupervised, LLMs, or AI agents)
 
+    -    Python Projects(Flask, Vue.js, Sqlite3)
+
     - 🌐 Open-source web projects (MERN stack)
+
+    - 📱 Android apps (React Native/Flutter)
 
 💡 Expertise & Interests
 💬 Ask me about:
 
+    - AI/ML (Python, TensorFlow, LLMs, LLamaIndex, LanGraph)
+
+    - Python Development(Flask)
+
     - MERN Stack (MongoDB, Express, React, Node.js)
 
     - Cross-platform apps (React Native)
-
-    - AI/ML basics (Python, TensorFlow, LLMs)
 
 📫 Reach me: mkmohitkumar700@gmail.com | www.linkedin.com/in/mohitcode
 
