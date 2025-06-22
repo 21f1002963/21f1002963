@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">Python Developer | AI/ML | Full Stack Web Developer (MERN) | India</h3>
+<h3 align="center">Python Developer | AI Agents | ML | Backend Web Developer (MERN) | India</h3>
 <p align="center">A Continuous Hustler</p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=21f1002963&margin-w=15&title=Commits,Repositories,PullRequest,Experience" alt="Trophy 1" />
 </div>
 
 <p></p>
-👨‍💻 Current Focus: Building AI Agents using LanGraph 
+👨‍💻 Current Focus: Building AI Agents using LangGraph, LlamaIndex(RAG) | Computer Vision( OpenCV, Yolo)
 
-🌱 Learning: Docker, Kubernetes, and GCP to master DevOps and cloud-native development.
+🌱 Learning: Docker, and GCP to master DevOps and cloud-native development.
 
 👯 Looking to collaborate on:
 
-    - 🤖 ML/AI projects (Supervised, Unsupervised, LLMs, or AI agents)
+    - 🤖 ML/AI projects (Supervised, Unsupervised | AI agents, LLMs -> LlamaIndex, LangGraph)
 
-    -    Python Projects(Flask, Vue.js, Sqlite3)
+    - 🐍 Python Projects(Flask, Vue.js, Sqlite3, Redis, Celery)
 
-    - 🌐 Open-source web projects (MERN stack)
+    - 🌐 Web projects (MERN stack)
 
-    - 📱 Android apps (React Native/Flutter)
+    - 📱 Android apps (React Native)
 
 💡 Expertise & Interests
 💬 Ask me about:
