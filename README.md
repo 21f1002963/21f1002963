@@ -6,13 +6,13 @@
 </div>
 
 <p></p>
-👨‍💻 Current Focus: Building AI Agents using LangGraph, LlamaIndex(RAG) | Computer Vision( OpenCV, Yolo)
+👨‍💻 Current Focus: Building AI Agents: LangGraph, LlamaIndex(RAG) | Computer Vision( OpenCV, Yolo)
 
 🌱 Learning: Docker, and GCP to master DevOps and cloud-native development.
 
 👯 Looking to collaborate on:
 
-    - 🤖 ML/AI projects (Supervised, Unsupervised | AI agents, LLMs -> LlamaIndex, LangGraph)
+    - 🤖 ML/AI Projects (Supervised, Unsupervised | AI agents, LLMs : LlamaIndex, LangGraph)
 
     - 🐍 Python Projects(Flask, Vue.js, Sqlite3, Redis, Celery)
 
