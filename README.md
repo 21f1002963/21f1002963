@@ -12,7 +12,8 @@
 
 👯 Looking to collaborate on:
 
-    - 🤖 ML/AI Projects (Supervised, Unsupervised | AI agents, LLMs : LlamaIndex, LangGraph)
+    - 🤖 ML/AI Projects (Supervised, Unsupervised | AI agents, LLMs : LlamaIndex, 
+          LangGraph)
 
     - 🐍 Python Projects(Flask, Vue.js, Sqlite3, Redis, Celery)
 
