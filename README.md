@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">GitHub Student Developer</h3>
-<h2 align="center">Python Developer | AI Agents | ML | Backend Web Developer (MERN) | India</h2>
+<h2 align="center">GitHub Student Developer</h2>
+<h3 align="center">Python Developer | AI Agents | ML | Backend Web Developer (MERN) | India</h3>
 <p align="center">A Continuous Hustler</p>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=21f1002963&margin-w=15&title=Commits,Repositories,PullRequest,Experience" alt="Trophy 1" />
